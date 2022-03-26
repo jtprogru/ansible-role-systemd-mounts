@@ -4,7 +4,7 @@
 [![Release to Ansible Galaxy](https://github.com/jtprogru/ansible-role-systemd-mounts/actions/workflows/galaxy.yml/badge.svg)](https://github.com/jtprogru/ansible-role-systemd-mounts/actions/workflows/galaxy.yml)
 [![TODO 2 Issue](https://github.com/jtprogru/ansible-role-systemd-mounts/actions/workflows/todo.yml/badge.svg)](https://github.com/jtprogru/ansible-role-systemd-mounts/actions/workflows/todo.yml)
 ![GitHub](https://img.shields.io/github/license/jtprogru/ansible-role-systemd-mounts)
-[![Ansible Role](https://img.shields.io/ansible/role/54362)](https://galaxy.ansible.com/jtprogru/ansible-role-systemd-mounts/)
+[![Ansible Role](https://img.shields.io/ansible/role/58562)](https://galaxy.ansible.com/jtprogru/systemd_mounts)
 [![GitHub tag](https://img.shields.io/github/tag/jtprogru/ansible-role-systemd-mounts.svg)](https://github.com/jtprogru/ansible-role-systemd-mounts/tags)
 
 Setup mounts as sysemd Service. So you can use mounts as system Servie.
