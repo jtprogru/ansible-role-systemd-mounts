@@ -1,0 +1,29 @@
+galaxy_info:
+  role_name: systemd_mounts
+  namespace: jtprogru
+  author: Michael Savin
+  description: This is sample ansible role used me as boilerplate
+  company: SysOps
+
+  license: WTFPL
+
+  min_ansible_version: "2.9"
+
+  platforms:
+    - name: Ubuntu
+      versions:
+      - all
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+  - systemd
+  - mounts
+  - mount
+  - nfs
+  - cifs
+  - automount
+  - debian
+
+dependencies: []

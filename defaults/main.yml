@@ -1,0 +1,9 @@
+---
+mounts: {}
+# Appdir:                             # description of the Service
+#   share: //apps.local/apps$         # Share to mount from
+#   mount: /opt/app                   # Folder to mount in
+#   type: nfs                         # mount type (look at mount man page)
+#   options: uid=1000                 # Options, username...
+#   automount: false                  # If false: the service will mount at boot
+#                                     # if true: Mount when access on the Folder and on boot
